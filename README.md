@@ -4,8 +4,10 @@ DIY Fibert - woodbox with fiberpixel (Fiberoptic and neopixel)
 
 On this page I will give you update on how I have made Fibert.
 
-First version of making fiberpixel (Fiberoptic and neopixel)
-https://github.com/udirbetalab/E-tekstiler/tree/master/fiberpixel
+First version of making fiberpixel (Fiberoptic and neopixel)<br>
+https://github.com/udirbetalab/E-tekstiler/tree/master/fiberpixel<br>
+<br>
+Will be update and with english text later
 
 
 
