@@ -11,6 +11,7 @@ You need:
 
 Python3 code: https://github.com/larsgimse/FIBERT/blob/master/twitterstream/python.py
 
+micro:bit code v3: https://makecode.microbit.org/_UTdi1hUmv1Du (update with pause grenn)<br>
 micro:bit code v2: https://makecode.microbit.org/_Yhk7a5TCEX2o (update with pause in USA flag)<br>
 micro:bit code v1: https://makecode.microbit.org/_Mg30Ye01yXX0<br>
 
