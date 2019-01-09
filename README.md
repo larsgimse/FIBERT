@@ -1,6 +1,7 @@
 # FIBERT
-DIY Fibert - woodbox with fiberpixel (Fiberoptic and neopixel)
-Go to folder Tweeterstream to se more. https://github.com/larsgimse/FIBERT/tree/master/twitterstream<br>
+DIY Fibert - woodbox with fiberpixel (Fiberoptic and neopixel)<br>
+
+Go to folder twitterstream to se more: https://github.com/larsgimse/FIBERT/tree/master/twitterstream<br>
 <img src="https://github.com/larsgimse/FIBERT/blob/master/fibert_.png"><br>
 
 <img src="https://github.com/larsgimse/FIBERT/blob/master/fibert.png"><br>
