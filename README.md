@@ -1,5 +1,7 @@
 # FIBERT
 DIY Fibert - woodbox with fiberpixel (Fiberoptic and neopixel)
+<img src="https://github.com/larsgimse/FIBERT/blob/master/fibert_.png"><br>
+
 <img src="https://github.com/larsgimse/FIBERT/blob/master/fibert.png"><br>
 
 On this page I will give you update on how I have made Fibert.
